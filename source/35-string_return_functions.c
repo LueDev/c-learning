@@ -24,6 +24,7 @@ char *func2 ()
     return s;
 }
 
+//Main func to return an int (success char)
 int main (int argc, char *argv[])
 {
     // Returning a character.
